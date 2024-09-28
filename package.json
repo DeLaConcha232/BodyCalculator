@@ -1,0 +1,23 @@
+{
+  "name": "bodycalculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DiegoDiazDeLaConcha",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.79.0",
+    "vite": "^5.4.6"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3"
+  }
+}
